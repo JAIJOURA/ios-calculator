@@ -1,2 +1,2 @@
 # ios-calculator
-ios calculator made by javascript
+ calculator with js and ios ui
